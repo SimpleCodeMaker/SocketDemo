@@ -1,0 +1,2 @@
+include ':TCPServer', ':TCPClient'
+rootProject.name='SocketDemo'
